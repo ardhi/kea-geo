@@ -1,0 +1,24 @@
+{
+  "name": "kea-geo",
+  "version": "0.0.1",
+  "description": "Collection of geo related utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/kea-geo.git"
+  },
+  "keywords": [
+    "kea",
+    "geo",
+    "utility"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/kea-geo/issues"
+  },
+  "homepage": "https://github.com/ardhi/kea-geo#readme"
+}
