@@ -1,6 +1,6 @@
 {
   "name": "kea-geo",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Collection of geo related utility",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ardhi/kea-geo/issues"
   },
-  "homepage": "https://github.com/ardhi/kea-geo#readme"
+  "homepage": "https://github.com/ardhi/kea-geo#readme",
+  "dependencies": {
+    "geolib": "^3.3.1"
+  }
 }
