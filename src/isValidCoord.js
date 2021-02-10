@@ -1,3 +1,3 @@
-module.exports = function (rec = {}) {
-  return rec.lng >= -180 && rec.lng <= 180 && rec.lat >= -90 && rec.lat <= 90
+module.exports = function (lng, lat) {
+  return lng >= -180 && lng <= 180 && lat >= -90 && lat <= 90
 }
