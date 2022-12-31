@@ -1,6 +1,6 @@
 {
   "name": "kea-geo",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Collection of geo related utility",
   "main": "index.js",
   "scripts": {

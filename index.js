@@ -14,7 +14,7 @@ const angleIn90Deg = require('./src/angleIn90Deg')
 const latSizeOf = require('./src/latSizeOf')
 const lngSizeOf = require('./src/lngSizeOf')
 const getTileBounds = require('./src/getTileBounds')
-const devideBounds = require('./src/devideBounds')
+const divideBounds = require('./src/divideBounds')
 const isCoordInBounds = require('./src/isCoordInBounds')
 
 module.exports = {
@@ -34,6 +34,6 @@ module.exports = {
   latSizeOf,
   lngSizeOf,
   getTileBounds,
-  devideBounds,
+  divideBounds,
   isCoordInBounds
 }
